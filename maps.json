@@ -5,35 +5,35 @@
       "author": "AsteroidLord",
       "description": "Gorilla Tag in Minecraft in Gorilla Tag.... Wow",
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/sdk%20example",
-      "version": 1
+      "version": 2
     },
     {
       "name": "Minecraft - New World",
       "author": "AsteroidLord",
       "description": "Ported from MonkeMapLoader!",
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/minecraft%20-%20new%20world",
-      "version": 1
+      "version": 2
     },
     {
       "name": "Bikini Bottom",
       "author": "AsteroidLord",
       "description": "Ported from MonkeMapLoader!",
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/bikini%20bottom",
-      "version": 1
+      "version": 2
     },
     {
       "name": "Monkeville",
       "author": "AsteroidLord",
       "description": "Ported from MonkeMapLoader!",
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/monkeville",
-      "version": 1
+      "version": 2
     },
     {
       "name": "SDK Template",
       "author": "AsteroidLord",
       "description": "The template used for creating custom maps!",
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/sdk%20map",
-      "version": 1
+      "version": 2
     }
   ]
 }
