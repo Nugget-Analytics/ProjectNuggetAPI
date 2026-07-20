@@ -8,6 +8,13 @@
       "version": 1
     },
     {
+      "name": "Minecraft - New World",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/minecraft%20-%20new%20world",
+      "version": 1
+    },
+    {
       "name": "Bikini Bottom",
       "author": "AsteroidLord",
       "description": "Ported from MonkeMapLoader!",
