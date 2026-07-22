@@ -29,6 +29,13 @@
       "version": 2
     },
     {
+      "name": "Doomspire Brickbattle",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/brickbattle",
+      "version": 1
+    },
+    {
       "name": "SDK Template",
       "author": "AsteroidLord",
       "description": "The template used for creating custom maps!",
