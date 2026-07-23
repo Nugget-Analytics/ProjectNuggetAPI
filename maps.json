@@ -22,6 +22,13 @@
       "version": 2
     },
     {
+      "name": "Funny Only Up",
+      "author": "cmwowzers",
+      "description": "This is Only Up in Project Nugget, This modded map has loads of funny pictures to hop across and laugh at, please let me know if you enjoy the map -cm",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/funny%20only%20up%20by%20cm",
+      "version": 1
+    },
+    {
       "name": "Bikini Bottom",
       "author": "AsteroidLord",
       "description": "Ported from MonkeMapLoader!",
