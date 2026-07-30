@@ -1,11 +1,91 @@
-{
-  "maps": [
     {
-      "name": "SDK Template",
+      "name": "Gorilla Tag - MC Edition",
       "author": "AsteroidLord",
-      "description": "The template used for creating custom maps!",
-      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/sdk%20map",
-      "version": 6
-    }
-  ]
-}
+      "description": "Gorilla Tag in Minecraft in Gorilla Tag.... Wow",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/sdk%20example",
+      "version": 4
+    },
+    {
+      "name": "Minecraft - New World",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/minecraft%20-%20new%20world",
+      "version": 2
+    },
+    {
+      "name": "GORILLA CRAFT",
+      "author": "kpmaxo",
+      "description": "MINECRAFT, BUT IN GORILLA TAG, FIND ALL THE MOBS! MADE BY MAXO. NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/gorillacraft",
+      "version": 1
+    },
+    {
+      "name": "MeteorMonsterEvent",
+      "author": "goofy_67, Oobleck_hi",
+      "description": "IF YOU MISSED/WANTED TO REPLAY THE EVENT, HERE IT IS. https://discord.gg/gtleaks",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/meteormonsterevent",
+      "version": 1
+    },
+    {
+      "name": "Monke Up!",
+      "author": "StyledSnail",
+      "description": "Welcome to the ONLY UP-DATE. the classic gorilla tag only up map by StyledSnail :D changed up a bit. good luck. maybe updates, prolly not",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/monke%20up!",
+      "version": 2
+    },
+    {
+      "name": "Realistic Forest",
+      "author": "NachoEngine",
+      "description": "This is a remake of GorillaTag's Forest map, with higher poly count models, higher resolution textures and more.",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/realistic%20forest",
+      "version": 2
+    },
+    {
+      "name": "The Backrooms",
+      "author": "Mythic-GT",
+      "description": "The Backrooms in Gorilla Tag - i found a place...",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/the%20backrooms",
+      "version": 4
+    },
+    {
+      "name": "Rec Room - Dodgeball",
+      "author": "cmwowzers",
+      "description": "Couldn't find a model online so this was ripped from a BONELAB map",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/rec%20room%20-%20dodgeball",
+      "version": 2
+    },
+    {
+      "name": "Funny Only Up",
+      "author": "cmwowzers",
+      "description": "This is Only Up in Project Nugget, This modded map has loads of funny pictures to hop across and laugh at, please let me know if you enjoy the map -cm",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/funny%20only%20up%20by%20cm",
+      "version": 2
+    },
+    {
+      "name": "Bikini Bottom",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/bikini%20bottom",
+      "version": 2
+    },
+    {
+      "name": "The End",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/the%20end",
+      "version": 1
+    },
+    {
+      "name": "Monkeville",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/monkeville",
+      "version": 2
+    },
+    {
+      "name": "Doomspire Brickbattle",
+      "author": "AsteroidLord",
+      "description": "Ported from MonkeMapLoader!",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/brickbattle",
+      "version": 1
+    },
