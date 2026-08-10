@@ -49,14 +49,6 @@
       "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/stud%20tag.png"
     },
     {
-      "name": "Realistic Forest",
-      "author": "NachoEngine",
-      "description": "This is a remake of GorillaTag's Forest map, with higher poly count models, higher resolution textures and more.",
-      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/realistic%20forest",
-      "version": 2,
-      "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/realistic%20forest.png"
-    },
-    {
       "name": "The Backrooms",
       "author": "Mythic-GT",
       "description": "The Backrooms in Gorilla Tag - i found a place...",
