@@ -1,5 +1,5 @@
 {
-  "featuredMap": "Rec Room - Rec Center",
+  "featuredMap": "STUD TAG",
   "maps": [
     {
       "name": "Gorilla Tag - MC Edition",
@@ -46,7 +46,7 @@
       "author": "alfietc4s",
       "description": "Gorilla Tag but STUDS! The forest has been completely transformed! Explore the new forest, fully rebuilt with toy building blocks. Play some of your favorite gamemodes, and help out the gorillas that live here.",
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/stud%20tag",
-      "version": 4,
+      "version": 5,
       "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/stud%20tag.png"
     },
     {
