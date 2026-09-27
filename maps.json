@@ -1,5 +1,5 @@
 {
-  "featuredMap": "STUD Tag!",
+  "featuredMap": "Server",
   "maps": [
     {
       "name": "Gorilla Tag - MC Edition",
@@ -104,6 +104,14 @@
       "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/sdk%20map",
       "version": 7,
       "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/sdk%20template.png"
+    },
+    {
+      "name": "Server",
+      "author": "Server",
+      "description": "there is no point in installing this, this is just a map that lets me display things on the featured map board for important things",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/sdk%20map",
+      "version": 1,
+      "imageUrl": "https://raw.githubusercontent.com/Nugget-Analytics/ProjectNuggetAPI/main/Maps/project%20nugget%20server%201%20cheaters.png"
     }
   ]
 }
