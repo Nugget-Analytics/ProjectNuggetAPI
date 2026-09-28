@@ -10,6 +10,14 @@
       "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/vrguy.png"
     },
     {
+      "name": "The Backrooms",
+      "author": "AsteroidLord",
+      "description": "i found a place..",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/the%20backrooms",
+      "version": 1,
+      "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/backrooms.png"
+    },
+    {
       "name": "Gorilla Tag - MC Edition",
       "author": "AsteroidLord",
       "description": "Gorilla Tag in Minecraft in Gorilla Tag.... Wow",
