@@ -1,6 +1,14 @@
 {
-  "featuredMap": "Gorilla Tag - MC Edition",
+  "featuredMap": "Vrguy's first only up",
   "maps": [
+    {
+      "name": "Vrguy's first only up",
+      "author": "Vrguy",
+      "description": "Medium only up",
+      "downloadUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/vrguy",
+      "version": 1,
+      "imageUrl": "https://github.com/Nugget-Analytics/ProjectNuggetAPI/raw/main/Maps/Images/vrguy.png"
+    },
     {
       "name": "Gorilla Tag - MC Edition",
       "author": "AsteroidLord",
